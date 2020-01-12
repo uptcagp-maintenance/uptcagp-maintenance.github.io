@@ -8,6 +8,7 @@ Content-Type: text/html
 <head>
 <title>Site Maintenance</title>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/semantic-ui/2.2.8/semantic.min.css">
+<meta http-equiv="refresh" content="0; URL='http://uptcagp-maintenance.github.io/'" />
 <style>
   
   body {
@@ -37,8 +38,9 @@ Content-Type: text/html
         Under Maintenance
       </div>
     </h1>
-    <p>This site might be having some issues or is currently under maintenance.</p>
-    <p>We apologize for the inconvenince.</p>
+    <p>Our servers are turned off to prevent damage to the external compressor units from the intake of ash due to the eruption of Taal Volcano.</p>
+    <p>We will be having our airconditioning units checks as soon as possible.</p>
+    <p>We apologize for the inconvenience.</p>
     <p>Follow the <a href="https://facebook.com/lipadph">LiPAD Facebook Page</a> for updates on the UP DREAM/PHIL-LIDAR 1 Program LIPAD Portal.</p>
     <div>
         <p>&mdash; <a href="mailto:support@dream.upd.edu.ph">UP DREAM/PHIL-LIDAR Program Support Team</a></p>
